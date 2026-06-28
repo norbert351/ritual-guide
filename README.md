@@ -28,7 +28,7 @@ Deploy a **free, recurring AI agent** on Ritual testnet in 5 minutes. No API key
 Copy and paste this entire line into your terminal, then press Enter:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ritual-agent.git && cd ritual-agent && bash run.sh
+git clone https://github.com/norbert351/ritual-agent.git && cd ritual-agent && bash run.sh
 ```
 
 > ⏳ **First run only:** The script will automatically install Foundry and uv (tools it needs). This takes ~1 minute.
